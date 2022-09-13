@@ -1,0 +1,41 @@
+html {
+    scroll-behavior: none;
+  }
+
+body {
+    background-image: url("https://www.dentons.com/-/media/images/website/background-images/issues-and-opportunities/covid-19/covid-19_background.jpg?sc_lang=en");
+    background-size:     cover;                      
+    background-repeat:   no-repeat;
+    background-position: center center;
+    margin: 0;
+    overflow: hidden;
+}
+
+h1 {
+    margin-left: 30%;
+    border-radius: 10px;
+    color: aliceblue;
+    padding-bottom: 20px;
+}
+
+.first {
+    margin: 100px 150px;
+}
+
+.input-group {
+    margin-left: 35%;
+    margin-right: 30%;
+    padding: 20px;
+}
+
+.form-outline {
+    padding-right: 5px;
+}
+
+table {
+    background-color: dark;
+}
+
+td {
+    color: white;
+}
